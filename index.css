@@ -18,12 +18,6 @@ header {
     margin: 10px 0;
 }
 
-.esquerda {
-   display: grid;
-    grid-template-columns: 50%;
-    grid-template-rows: 50% 50%;
-}
-
 .derechaSup {
     display: grid;
     grid-template-columns: 50%;
