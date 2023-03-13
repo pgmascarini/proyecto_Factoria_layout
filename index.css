@@ -1,0 +1,87 @@
+.container {
+    padding: 0;
+    margin: 0;
+    font-size: 1.5rem;
+    background-color: #414135;
+}
+
+header {
+    background-color: rgb(226, 109, 109);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+
+.numero1 {
+    background-color: rgb(182, 224, 224);
+    padding: 50px;
+    margin: 10px 0;
+}
+
+.esquerda {
+   display: grid;
+    grid-template-columns: 50%;
+    grid-template-rows: 50% 50%;
+}
+
+.derechaSup {
+    display: grid;
+    grid-template-columns: 50%;
+    grid-template-rows: 50%;
+}
+
+.derechaInf {
+    display: grid;
+    grid-template-columns: 25% 25%;
+    grid-template-rows: 50%;
+}
+
+.numero2 {
+    background-color: rgb(224, 102, 214);
+    padding: 50px;
+    margin: 10px 0;
+}
+
+.numero3 {
+    background-color: rgb(201, 223, 78);
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.numero4 {
+    background-color: rgb(115, 122, 219);
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.numero5 {
+    background-color: rgb(247, 206, 233);
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.numero6 {
+    background-color: rgb(247, 136, 62);
+    padding: 1px;
+    margin: 5px 0;
+}
+
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer > div {
+    width: 25%;
+    background-color: #5de05e;
+    margin: 10px;
+    padding: 40px 10px;
+    
+}
+
+
+
+
+
+
